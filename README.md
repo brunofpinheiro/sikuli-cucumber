@@ -1,2 +1,2 @@
 # sikuli-cucumber
-An example of sikulix, cucumber and java for BDD
+A samll example of how to use SikuliX API and Cucumber for a BDD project.
